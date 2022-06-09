@@ -1,2 +1,2 @@
-# push-helpers
-Helper functions internally Push E.
+# common-functions
+Useful PHP functions wrappers

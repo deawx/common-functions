@@ -1,6 +1,6 @@
 <?php
 
-namespace CG\Functions\Traits;
+namespace Croga\Functions\Traits;
 
 use JetBrains\PhpStorm\NoReturn;
 

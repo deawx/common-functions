@@ -1,5 +1,5 @@
 {
-  "name": "cg/functions",
+  "name": "croga/functions",
   "type": "library",
   "description": "Helper functions internally Push E.",
   "keywords": ["relevant","tags","go","here"],
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "CG\\Functions\\": "src/"
+      "Croga\\Functions\\": "src/"
     }
   },
   "authors": [

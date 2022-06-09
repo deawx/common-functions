@@ -1,6 +1,6 @@
 <?php
 
-namespace CG\Functions;
+namespace Croga\Functions;
 
 use GuzzleHttp\Exception\BadResponseException;
 use GuzzleHttp\Exception\ClientException;
@@ -10,12 +10,12 @@ use GuzzleHttp\Exception\ServerException;
 use GuzzleHttp\Exception\TransferException;
 use JetBrains\PhpStorm\ArrayShape;
 use JetBrains\PhpStorm\NoReturn;
-use CG\Functions\Traits\Error;
+use Croga\Functions\Traits\Error;
 
 /**
  * Class Api
  *
- * @package CG\Functions
+ * @package Croga\Functions
  */
 class Api
 {

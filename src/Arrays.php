@@ -1,13 +1,13 @@
 <?php
 
-namespace CG\Functions;
+namespace Croga\Functions;
 
-use CG\Functions\Traits\Error;
+use Croga\Functions\Traits\Error;
 
 /**
  * Class Array
  *
- * @package CG\Functions
+ * @package Croga\Functions
  */
 class Arrays
 {

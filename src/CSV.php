@@ -1,14 +1,14 @@
 <?php
 
-namespace CG\Functions;
+namespace Croga\Functions;
 
 use JetBrains\PhpStorm\NoReturn;
-use CG\Functions\Traits\Error;
+use Croga\Functions\Traits\Error;
 
 /**
  * Class CSV
  *
- * @package CG\Functions
+ * @package Croga\Functions
  */
 class CSV
 {

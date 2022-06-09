@@ -1,14 +1,14 @@
 <?php
 
-namespace PushEnt\Helpers;
+namespace CG\Functions;
 
 use JetBrains\PhpStorm\NoReturn;
-use PushEnt\Helpers\Traits\Error;
+use CG\Functions\Traits\Error;
 
 /**
  * Class CSV
  *
- * @package PushEnt\Helpers
+ * @package CG\Functions
  */
 class CSV
 {

@@ -1,5 +1,5 @@
 {
-  "name": "pushent/helpers",
+  "name": "cg/functions",
   "type": "library",
   "description": "Helper functions internally Push E.",
   "keywords": ["relevant","tags","go","here"],
@@ -15,17 +15,13 @@
   },
   "autoload": {
     "psr-4": {
-      "PushEnt\\Helpers\\": "src/"
+      "CG\\Functions\\": "src/"
     }
-  },
-  "support": {
-    "issues": "https://github.com/PushEngineering/push-helpers/issues",
-    "source": "https://github.com/PushEngineering/push-helpers"
   },
   "authors": [
     {
       "name": "Gabriel Croitoru",
-      "email": "gabriel@pushentertainment.com",
+      "email": "croitorugabriel@yahoo.com",
       "role": "Developer"
     }
   ]

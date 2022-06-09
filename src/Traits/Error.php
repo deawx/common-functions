@@ -1,6 +1,6 @@
 <?php
 
-namespace PushEnt\Helpers\Traits;
+namespace CG\Functions\Traits;
 
 use JetBrains\PhpStorm\NoReturn;
 

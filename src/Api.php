@@ -1,6 +1,6 @@
 <?php
 
-namespace PushEnt\Helpers;
+namespace CG\Functions;
 
 use GuzzleHttp\Exception\BadResponseException;
 use GuzzleHttp\Exception\ClientException;
@@ -10,12 +10,12 @@ use GuzzleHttp\Exception\ServerException;
 use GuzzleHttp\Exception\TransferException;
 use JetBrains\PhpStorm\ArrayShape;
 use JetBrains\PhpStorm\NoReturn;
-use PushEnt\Helpers\Traits\Error;
+use CG\Functions\Traits\Error;
 
 /**
  * Class Api
  *
- * @package PushEnt\Helpers
+ * @package CG\Functions
  */
 class Api
 {

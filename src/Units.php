@@ -1,13 +1,13 @@
 <?php
 
-namespace PushEnt\Helpers;
+namespace CG\Functions;
 
-use PushEnt\Helpers\Traits\Error;
+use CG\Functions\Traits\Error;
 
 /**
  * Class General
  *
- * @package PushEnt\Helpers
+ * @package CG\Functions
  */
 class Units
 {

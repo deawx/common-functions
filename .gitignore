@@ -1,3 +1,7 @@
 
 vendor/*
 composer.lock
+.idea/common-functions.iml
+.idea/modules.xml
+.idea/php.xml
+.idea/vcs.xml

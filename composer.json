@@ -6,7 +6,7 @@
   "homepage": "https://pushentertainment.com",
   "license": "MIT",
   "require": {
-    "php": "^7.3 || ^8.0",
+    "php": "^8.0",
     "ext-json": "*",
     "neitanod/forceutf8": "2.0.4",
     "jimmiw/php-time-ago" : "3.2.2",
